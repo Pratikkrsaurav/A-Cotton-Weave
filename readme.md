@@ -32,7 +32,7 @@ Designed as part of my frontend journey with inspiration from modern e-commerce 
 👉 [Click here to view live](https://a-cotton-weave-designbypratik.netlify.app/)
 
 ### 📁 GitHub Repo:
-👉 [Click here to view repo](https://github.com/your-username/your-repo-name)
+👉 [Click here to view repo](https://github.com/Pratikkrsaurav/A-Cotton-Weave)
 
 ---
 
