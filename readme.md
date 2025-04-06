@@ -29,7 +29,7 @@ Designed as part of my frontend journey with inspiration from modern e-commerce 
 ![Preview](./Document.pdf)
 
 ### 🔗 Live Site:
-👉 [Click here to view live](https://your-live-site-link.com)
+👉 [Click here to view live](https://a-cotton-weave-designbypratik.netlify.app/)
 
 ### 📁 GitHub Repo:
 👉 [Click here to view repo](https://github.com/your-username/your-repo-name)
